@@ -1,2 +1,2 @@
 # tower.github.io
-[tower](https://artyom125.github.io/tower/index.html)
+[tower](https://tower.github.io/tower/index.html)
